@@ -36,6 +36,19 @@
   <img alt="github snake animation" src="https://raw.githubusercontent.com/rafaelgazola/rafaelgazola/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+---
+
+### 👾 Pac-Man Eating Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snk-org/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Pacman Eating Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgazola&theme=react-dark&hide_border=true">
+</picture>
+
+<p align="center">
+  <img src="https://pacman-contrib.vercel.app/api/pacman?username=rafaelgazola" alt="Pac-Man eating commits" />
+</p>
 ---
 
 ### 📬 Onde me encontrar
