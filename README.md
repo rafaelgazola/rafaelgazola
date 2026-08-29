@@ -39,16 +39,14 @@
 
 ---
 
-### 👾 Pac-Man Eating Contributions
+### 👾 Pac-Man Contribution Grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snk-org/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Pacman Eating Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelgazola&theme=react-dark&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelgazola/rafaelgazola/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelgazola/rafaelgazola/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rafaelgazola/rafaelgazola/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://pacman-contrib.vercel.app/api/pacman?username=rafaelgazola" alt="Pac-Man eating commits" />
-</p>
 ---
 
 ### 📬 Onde me encontrar
